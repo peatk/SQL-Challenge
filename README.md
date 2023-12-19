@@ -25,11 +25,11 @@ _First name, last name, and hire date for the employees who were hired in 1986_
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/1986_hire_date(2).png)
 
 
-_Manager of each department along with their department number, department name, employee number, last name, and first name
+_Manager of each department along with their department number, department name, employee number, last name, and first name_
 _![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/dept_manager(3).png)
 
 
-_Department number for each employee along with that employee’s employee number, last name, first name, and department name
+_Department number for each employee along with that employee’s employee number, last name, first name, and department name_
 _![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/deptid_empno(4).png)
 
 
