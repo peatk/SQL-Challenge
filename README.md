@@ -19,6 +19,7 @@ I developed 8 queries to analyze the data for this project
 Employee number, last name, first name, sex, and salary of each employee
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/employee_list(1).png)
 
+
 First name, last name, and hire date for the employees who were hired in 1986
 
 Manager of each department along with their department number, department name, employee number, last name, and first name
