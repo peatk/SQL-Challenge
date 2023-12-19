@@ -14,5 +14,23 @@ I developed an ERD (Entity Relationship Diagram) for the project
 I ensured that all essential columns are defined for each table and are assigned the appropriate data types. I set primary keys for each table and establishing accurate references between related tables contribute to a well-structured database. The integration of foreign keys is crucial for establishing correct relationshipes between tables. I applied the NOT NULL condition to necessary columns to ensure data integrity. Additionally, defining value lengths for columns adds another layer of accuracy, collectively forming the foundation of effective data management.
 
 ##### Data Analysis
+I developed 8 queries to analyze the data for this project
+
+Employee number, last name, first name, sex, and salary of each employee
+
+First name, last name, and hire date for the employees who were hired in 1986
+
+Manager of each department along with their department number, department name, employee number, last name, and first name
+
+Department number for each employee along with that employee’s employee number, last name, first name, and department name
+
+First name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B
+
+Employee in the Sales department, including their employee number, last name, and first name
+
+Employee in the Sales & Development departments, including their employee number, last name, first name, and department name
+
+Frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name)
+
 
 
