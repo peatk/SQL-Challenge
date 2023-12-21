@@ -18,30 +18,37 @@ I developed 8 queries to analyze the data for this project
 
 
 _Employee number, last name, first name, sex, and salary of each employee_
+
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/employee_list(1).png)
 
 
 _First name, last name, and hire date for the employees who were hired in 1986_
+
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/1986_hire_date(2).png)
 
 
 _Manager of each department along with their department number, department name, employee number, last name, and first name_
-_![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/dept_manager(3).png)
+
+![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/dept_manager(3).png)
 
 
 _Department number for each employee along with that employee’s employee number, last name, first name, and department name_
-_![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/deptid_empno(4).png)
+
+![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/deptid_empno(4).png)
 
 
 _First name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B_
+
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/hercules(5).png)
 
 
 _Employee in the Sales department, including their employee number, last name, and first name_
+
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/sales_team(6).png)
 
 
 _Employee in the Sales & Development departments, including their employee number, last name, first name, and department name_
+
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/sales_and_development_dept(7).png)
 
 
