@@ -17,7 +17,7 @@ I ensured that all essential columns are defined for each table and are assigned
 I developed 8 queries to analyze the data for this project
 
 
-##### _Employee number, last name, first name, sex, and salary of each employee_
+##### Employee number, last name, first name, sex, and salary of each employee
 
 ![Alt Text](https://github.com/peatk/SQL-Challenge/blob/main/EmployeeSQL/data/employee_list(1).png)
 
